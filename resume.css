@@ -1,5 +1,13 @@
+Header {
+  background-color: blue;
+  font-family: fantasy;
+  font-size: 15px;
+
+}
+
+
 Body {
-	Background-color: orange;
+	Background-color: teal;
 	Font-family: "Comic Sans MS"
-	Font-size: 7px;
+	Font-size: 10px;
 }
