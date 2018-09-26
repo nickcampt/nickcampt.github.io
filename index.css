@@ -4,13 +4,13 @@ body {
 }
 
 a:link, a:visited{
-  color: white
+  color: white;
 }
 
 
 
 img {
-  max-width: 40%
+  max-width: 40%;
   height: auto;
   display: block;
   margin-left: auto;
